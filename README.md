@@ -2,7 +2,7 @@
 Monitoring script for AsusWRT Merlin router OS
 
 ## Install
-1. Edit the varaibles INSIGHTSKEY and ACCOUNTID in the script
+1. Edit the varaibles `INSIGHTSKEY` and `ACCOUNTID` in the script
 1. Copy the script to `/jffs/scripts/` on your router
 1. Edit the file `/jffs/scripts/services-start` on your router
 1. Add the following line so that the script is added to the crontab everytime the router starts
